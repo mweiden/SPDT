@@ -1,6 +1,6 @@
 Streaming Parallel Decision Tree
 ================================
-
+![Scala CI](https://github.com/mweiden/spdt/workflows/Scala%20CI/badge.svg?branch=master)
 ![tree!](https://github.com/soundcloud/SPDT/blob/master/config/tree.png?raw=true)
 
 A streaming parallel decision tree (SPDT) enables parallelized training of a [decision tree classifier](https://en.wikipedia.org/wiki/Decision_tree_learning) and the ability to make updates to this tree with streaming data. Basic MDL-based pruning is also implemented to prevent overfitting.
